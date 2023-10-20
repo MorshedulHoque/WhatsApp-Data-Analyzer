@@ -1,0 +1,202 @@
+{
+  "build": "hd95f75e_3",
+  "build_number": 3,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "libprotobuf >=4.24.3,<4.24.4.0a0",
+    "libzlib >=1.2.13,<1.3.0a0",
+    "lz4-c >=1.9.3,<1.10.0a0",
+    "snappy >=1.1.10,<2.0a0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30139",
+    "zstd >=1.5.5,<1.6.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\DA\\anaconda3\\pkgs\\orc-1.9.0-hd95f75e_3",
+  "files": [
+    "Library/bin/orc.dll",
+    "Library/include/orc/BloomFilter.hh",
+    "Library/include/orc/ColumnPrinter.hh",
+    "Library/include/orc/Common.hh",
+    "Library/include/orc/Exceptions.hh",
+    "Library/include/orc/Int128.hh",
+    "Library/include/orc/MemoryPool.hh",
+    "Library/include/orc/OrcFile.hh",
+    "Library/include/orc/Reader.hh",
+    "Library/include/orc/Statistics.hh",
+    "Library/include/orc/Type.hh",
+    "Library/include/orc/Vector.hh",
+    "Library/include/orc/Writer.hh",
+    "Library/include/orc/orc-config.hh",
+    "Library/include/orc/sargs/Literal.hh",
+    "Library/include/orc/sargs/SearchArgument.hh",
+    "Library/include/orc/sargs/TruthValue.hh",
+    "Library/lib/orc.lib",
+    "Library/share/doc/orc/LICENSE",
+    "Library/share/doc/orc/NOTICE",
+    ".nonadmin"
+  ],
+  "fn": "orc-1.9.0-hd95f75e_3.conda",
+  "license": "Apache-2.0",
+  "license_family": "Apache",
+  "link": {
+    "source": "C:\\Users\\DA\\anaconda3\\pkgs\\orc-1.9.0-hd95f75e_3",
+    "type": 1
+  },
+  "md5": "7886f9102401c5e697187c05821cea23",
+  "name": "orc",
+  "package_tarball_full_path": "C:\\Users\\DA\\anaconda3\\pkgs\\orc-1.9.0-hd95f75e_3.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/orc.dll",
+        "path_type": "hardlink",
+        "sha256": "5b6e05e57a40961afd930f5488ddebda7c9458acf9fde51ac86fcc79f46e33d8",
+        "sha256_in_prefix": "5b6e05e57a40961afd930f5488ddebda7c9458acf9fde51ac86fcc79f46e33d8",
+        "size_in_bytes": 2968576
+      },
+      {
+        "_path": "Library/include/orc/BloomFilter.hh",
+        "path_type": "hardlink",
+        "sha256": "473c6e6c0ff4e2301fe4a3da129cc00ccc3a268430d6636e333d11f3bed94218",
+        "sha256_in_prefix": "473c6e6c0ff4e2301fe4a3da129cc00ccc3a268430d6636e333d11f3bed94218",
+        "size_in_bytes": 1379
+      },
+      {
+        "_path": "Library/include/orc/ColumnPrinter.hh",
+        "path_type": "hardlink",
+        "sha256": "950bb26fb8393f31e864fd3085e2578fffb48d5046ba76b47f04fe21186d0d84",
+        "sha256_in_prefix": "950bb26fb8393f31e864fd3085e2578fffb48d5046ba76b47f04fe21186d0d84",
+        "size_in_bytes": 1509
+      },
+      {
+        "_path": "Library/include/orc/Common.hh",
+        "path_type": "hardlink",
+        "sha256": "16c11b96a5897dec07cd288db1abb69a1ac35299237184a8d0136fdf55da4d04",
+        "sha256_in_prefix": "16c11b96a5897dec07cd288db1abb69a1ac35299237184a8d0136fdf55da4d04",
+        "size_in_bytes": 8318
+      },
+      {
+        "_path": "Library/include/orc/Exceptions.hh",
+        "path_type": "hardlink",
+        "sha256": "651471fc3c09c92be114d55e7849c3f655cd3ff4c9f4efb60b4a4b87a72f1343",
+        "sha256_in_prefix": "651471fc3c09c92be114d55e7849c3f655cd3ff4c9f4efb60b4a4b87a72f1343",
+        "size_in_bytes": 2343
+      },
+      {
+        "_path": "Library/include/orc/Int128.hh",
+        "path_type": "hardlink",
+        "sha256": "2c2708c6ec0726fb77894a369b6bfb3278e1e03ca5e31efceaa9d13ea30a3ee9",
+        "sha256_in_prefix": "2c2708c6ec0726fb77894a369b6bfb3278e1e03ca5e31efceaa9d13ea30a3ee9",
+        "size_in_bytes": 11378
+      },
+      {
+        "_path": "Library/include/orc/MemoryPool.hh",
+        "path_type": "hardlink",
+        "sha256": "017c044e5ff4976eba89a9be08cb65c7a9fb3bcbbfa80f65a91659dfa9db03d3",
+        "sha256_in_prefix": "017c044e5ff4976eba89a9be08cb65c7a9fb3bcbbfa80f65a91659dfa9db03d3",
+        "size_in_bytes": 4277
+      },
+      {
+        "_path": "Library/include/orc/OrcFile.hh",
+        "path_type": "hardlink",
+        "sha256": "2b1630bb0d70ef36f95f890959166b3c519c0a5e017aecb1f85ab1d0749054eb",
+        "sha256_in_prefix": "2b1630bb0d70ef36f95f890959166b3c519c0a5e017aecb1f85ab1d0749054eb",
+        "size_in_bytes": 4778
+      },
+      {
+        "_path": "Library/include/orc/Reader.hh",
+        "path_type": "hardlink",
+        "sha256": "92f945e607770c9499a6a0c663756d759ce6568e063521b68f32ff3681aebc62",
+        "sha256_in_prefix": "92f945e607770c9499a6a0c663756d759ce6568e063521b68f32ff3681aebc62",
+        "size_in_bytes": 21044
+      },
+      {
+        "_path": "Library/include/orc/Statistics.hh",
+        "path_type": "hardlink",
+        "sha256": "280568a2424512acf848152567b4abc845ea686c469c29809a933c2036c6df78",
+        "sha256_in_prefix": "280568a2424512acf848152567b4abc845ea686c469c29809a933c2036c6df78",
+        "size_in_bytes": 12121
+      },
+      {
+        "_path": "Library/include/orc/Type.hh",
+        "path_type": "hardlink",
+        "sha256": "81494a863a5b59774bab19f782048c5d4f83365926059c3427c4574cbbc90d22",
+        "sha256_in_prefix": "81494a863a5b59774bab19f782048c5d4f83365926059c3427c4574cbbc90d22",
+        "size_in_bytes": 4249
+      },
+      {
+        "_path": "Library/include/orc/Vector.hh",
+        "path_type": "hardlink",
+        "sha256": "84e0ddda5307844d2124a88e6e912b18f75e7346ad2bf4e04e30b6746d9b20e8",
+        "sha256_in_prefix": "84e0ddda5307844d2124a88e6e912b18f75e7346ad2bf4e04e30b6746d9b20e8",
+        "size_in_bytes": 12684
+      },
+      {
+        "_path": "Library/include/orc/Writer.hh",
+        "path_type": "hardlink",
+        "sha256": "9b9ebe61c3dc493aef8a7995d21dc063405b0b6d719e82037a46bb546554e3b8",
+        "sha256_in_prefix": "9b9ebe61c3dc493aef8a7995d21dc063405b0b6d719e82037a46bb546554e3b8",
+        "size_in_bytes": 8388
+      },
+      {
+        "_path": "Library/include/orc/orc-config.hh",
+        "path_type": "hardlink",
+        "sha256": "4414a32259018b760f7378e0a7e10997a43bad1219a53b72cf57737602f98053",
+        "sha256_in_prefix": "4414a32259018b760f7378e0a7e10997a43bad1219a53b72cf57737602f98053",
+        "size_in_bytes": 1233
+      },
+      {
+        "_path": "Library/include/orc/sargs/Literal.hh",
+        "path_type": "hardlink",
+        "sha256": "56fcfe6b52c29064d49e7db6c823eb87bdc16c322c3b7d920dd68165c4aea8d7",
+        "sha256_in_prefix": "56fcfe6b52c29064d49e7db6c823eb87bdc16c322c3b7d920dd68165c4aea8d7",
+        "size_in_bytes": 4671
+      },
+      {
+        "_path": "Library/include/orc/sargs/SearchArgument.hh",
+        "path_type": "hardlink",
+        "sha256": "d6e1400c91483cb9f6117849453425f19f2fd318bec6447b095e1716d31b8ff1",
+        "sha256_in_prefix": "d6e1400c91483cb9f6117849453425f19f2fd318bec6447b095e1716d31b8ff1",
+        "size_in_bytes": 9537
+      },
+      {
+        "_path": "Library/include/orc/sargs/TruthValue.hh",
+        "path_type": "hardlink",
+        "sha256": "ae70c7e00fca662a43fd78b85030a6297a8e8e353928301b5e4881dc6f55ebf9",
+        "sha256_in_prefix": "ae70c7e00fca662a43fd78b85030a6297a8e8e353928301b5e4881dc6f55ebf9",
+        "size_in_bytes": 1871
+      },
+      {
+        "_path": "Library/lib/orc.lib",
+        "path_type": "hardlink",
+        "sha256": "ed45e345d9b46b9d299dcda1feeb645a0a7025e9205a53d9242d5c8ba57ff78c",
+        "sha256_in_prefix": "ed45e345d9b46b9d299dcda1feeb645a0a7025e9205a53d9242d5c8ba57ff78c",
+        "size_in_bytes": 10713620
+      },
+      {
+        "_path": "Library/share/doc/orc/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "7722d6ce394ee750497a810b5e7c4eb52e9390128854d67ac1f5ffe29e5c0067",
+        "sha256_in_prefix": "7722d6ce394ee750497a810b5e7c4eb52e9390128854d67ac1f5ffe29e5c0067",
+        "size_in_bytes": 19441
+      },
+      {
+        "_path": "Library/share/doc/orc/NOTICE",
+        "path_type": "hardlink",
+        "sha256": "2fbb61b828d64a29b14904edf544e0a33ab710e22bc8bf74923e92c52188d5aa",
+        "sha256_in_prefix": "2fbb61b828d64a29b14904edf544e0a33ab710e22bc8bf74923e92c52188d5aa",
+        "size_in_bytes": 302
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "faf72cde79571b475a77fc036a62f73cf270b03dbfc1fbe6f6a785464b656245",
+  "size": 881734,
+  "subdir": "win-64",
+  "timestamp": 1696768993450,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/orc-1.9.0-hd95f75e_3.conda",
+  "version": "1.9.0"
+}
